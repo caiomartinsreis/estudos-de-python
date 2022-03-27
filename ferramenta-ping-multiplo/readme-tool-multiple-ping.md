@@ -1,4 +1,4 @@
-Ferramenta criada em atividade de aula
+# Ferramenta criada em atividade de aula
 
 import os ##Importa o módulo ou biblioteca OS (integrar programas e recursos)
 import time ##Importa o módulo time (definir quantidade de vezes)
@@ -14,7 +14,7 @@ with open('hosts.txt') as file:
         print('-' * 60)
         time.sleep(5)
 
-Tool created in class activity
+# Tool created in class activity
 
 import os ##Imports OS module or library (integrate programs and resources)
 import time ##Import the time module or library (to set the number of times)
